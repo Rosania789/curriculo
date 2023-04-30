@@ -10,6 +10,8 @@ e não me vejo fazendo outra coisa que não esteja relacionada a tecnologia.
 
 ## Conhecimentos ##
 
+* Assembly
+* C/C++
 * PHP 
 * Ruby 
 * Javascript 
@@ -18,8 +20,8 @@ e não me vejo fazendo outra coisa que não esteja relacionada a tecnologia.
 * Node.js
 * Docker
 * Python
-* Sistemas de controle de versão (git, svn)
-* Testes automatizados (bdd, tdd)
+* Sistemas de controle de versão 
+* Testes automatizados 
 * Desenvolvimento Ágil
 * Segurança e performance 
 * Cybersegurança
